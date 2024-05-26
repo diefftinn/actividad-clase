@@ -1,0 +1,2 @@
+# actividad-clase
+proyecto skechs
